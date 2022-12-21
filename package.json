@@ -40,7 +40,7 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "react-scripts start",
     "run": "nodemon start"
   },
   "eslintConfig": {
